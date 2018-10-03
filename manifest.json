@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "version": "0.1",
+    "name": "ThisQR",
+    "description": "",
+    "icons": {
+        "48": "icons/this-qr.png"
+    },
+    "page_action": {
+        "default_title": "ThisQR",
+        "default_popup": "qr.html",
+        "default_icon": "icons/this-qr.png"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    }
+}
