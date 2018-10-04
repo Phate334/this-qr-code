@@ -3,6 +3,7 @@
     "version": "0.1",
     "name": "ThisQR",
     "description": "",
+    "homepage_url": "https://github.com/Phate334/this-qr-code",
     "icons": {
         "48": "icons/this-qr.png"
     },
